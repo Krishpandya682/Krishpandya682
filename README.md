@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Krish Pandya</h1>
-<h3 align="center">A Computer Science student at the University Of Maryland, College Park</h3>
+<h1 align="center">Krish Pandya</h1>
+<h3 align="center">I am a Computer Science student at the University Of Maryland, College Park</h3>
 
 <!-- - 🔭 I’m currently working on [-](-)
 
