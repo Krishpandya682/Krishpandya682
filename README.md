@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **-**
  -->
-- 📫 How to reach me **krishpandya682@gmail.com**
+- 📫 How to reach me **krishjpandya@gmail.com**
 <!-- 
 - 📄 Know about my experiences [-](-)
 
